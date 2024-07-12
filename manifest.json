@@ -1,0 +1,10 @@
+{
+  "name": "Site de Buscas",
+  "version": "2.0" ,
+  "description": "Site de Comparação de Preço na Área  de Tecnologia",
+  "browser_action": {
+     "default_popup": "index.html"
+  },
+
+  "manifest_version": 2
+}
